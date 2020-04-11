@@ -4,4 +4,4 @@ int a=10;
 float f=a;  
 System.out.println(a);  
 System.out.println(f);  
-}}  
+}}  //simple Example for java variable widening Example
