@@ -3,3 +3,4 @@ class Simple{
      System.out.println("Welcome To Java");  
     }  
 }  
+//Simple java program
